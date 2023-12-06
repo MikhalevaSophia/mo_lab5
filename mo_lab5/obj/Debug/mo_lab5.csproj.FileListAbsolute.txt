@@ -1,0 +1,7 @@
+C:\Users\mi\source\repos\mo_lab5\obj\Debug\mo_lab5.csproj.AssemblyReference.cache
+C:\Users\mi\source\repos\mo_lab5\obj\Debug\mo_lab5.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\mo_lab5\bin\Debug\mo_lab5.exe.config
+C:\Users\mi\source\repos\mo_lab5\bin\Debug\mo_lab5.exe
+C:\Users\mi\source\repos\mo_lab5\bin\Debug\mo_lab5.pdb
+C:\Users\mi\source\repos\mo_lab5\obj\Debug\mo_lab5.exe
+C:\Users\mi\source\repos\mo_lab5\obj\Debug\mo_lab5.pdb
